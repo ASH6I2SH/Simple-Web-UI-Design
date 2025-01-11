@@ -55,7 +55,7 @@ html, body{
     position: absolute;
     bottom: -56px;
     left: 585px;
-    /* background-color: aqua; */
+    
 }
 
 .arrD{
@@ -108,8 +108,9 @@ html, body{
     justify-content: space-between;
     align-items: center;
     /* background-color: rgb(241, 161, 161); */
-    position: relative;
-    top: 415px;
+    position: absolute;
+    width: 100%;
+    top: 562px;
     padding: 17px 27px;
 
     
